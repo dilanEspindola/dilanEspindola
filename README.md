@@ -29,8 +29,4 @@ Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dilanEspindola"><img src="https://github-readme-stats.vercel.app/api?username=dilanEspindola&show_icons=true&hide=stars,issues,&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="dilanEspindola's GitHub stats" /></a>
-
-<a href="http://www.github.com/dilanEspindola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanEspindola&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/dilanEspindola" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanEspindola&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
