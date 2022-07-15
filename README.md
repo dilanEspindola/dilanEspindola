@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Colombia
-* 🧠  I'm learning Golang and MYSQL
+* 🧠  I'm learning Python and MYSQL
 
 ### Skills
 
